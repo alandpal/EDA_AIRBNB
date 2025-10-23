@@ -1,4 +1,4 @@
-"""# 🏠 Análisis Exploratorio de Datos (EDA) – Airbnb Valencia
+# 🏠 Análisis Exploratorio de Datos (EDA) – Airbnb Valencia
 
 ## 📖 Descripción del proyecto
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre el mercado de **alojamientos de Airbnb en la ciudad de Valencia**, utilizando datos públicos de la plataforma [Inside Airbnb](http://insideairbnb.com/).  
@@ -57,4 +57,3 @@ Mientras los pequeños propietarios reducen su presencia, los grupos con múltip
 Aunque no se observa una correlación lineal entre el tamaño del propietario y el precio, sí existen **umbrales de comportamiento diferenciados**, donde a partir de 3–5 alojamientos los propietarios tienden a actuar como operadores profesionales.  
 
 Estas tendencias reflejan un **mercado en evolución**, influido tanto por factores turísticos estacionales como por dinámicas de competencia y rentabilidad.
-"""
